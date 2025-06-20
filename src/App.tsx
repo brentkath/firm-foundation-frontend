@@ -4,7 +4,7 @@ import BibleVerse from './components/BibleVerse';
 export default function App() {
   return (
     <div>
-      <h1>Firm Foundation Dashboard</h1>
+      <h1>Welcome to the new Firm Foundation site!</h1>
       <BibleVerse />
     </div>
   );
